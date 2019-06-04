@@ -3,6 +3,8 @@ This repo contains information used in an introductory class on extracting data 
 
 Our objective was to convert two files from PDFs into machine-readable data using Tabula, import that data into Excel, clean and analyze it.
 
+[The advanced level of this class can be found here](https://github.com/JoeYerardi/data-plus-narrative-2019-advanced-data-from-documents).
+
 ## [Sublime Text](https://www.sublimetext.com/)
 Sublime Text is a good text editor that'll help you understand what your raw, converted text file looks like before importing it into Excel.
 
