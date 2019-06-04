@@ -1,4 +1,4 @@
-# data-plus-narrative-2019-data-from-documents
+# Data + Narrative 2019 Liberating Data from Documents: Free and Reliable Methods
 This repo contains information used in an introductory class on extracting data from PDFs taught at the [Boston University Data + Narrative workshop](https://combeyond.bu.edu/workshop/data-narrative/) on 6/4/19.
 
 We will convert two files from PDFs into machine-readable data using Tabula, import that data into Excel, clean and analyze it.
